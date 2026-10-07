@@ -1,0 +1,10 @@
+Recommendation,Scenario,Annual gain,Investment,ROI %,Payback (months)
+R1: Discount governance,Conservative,10230.7,3355.2,204.9,3.9
+R1: Discount governance,Expected,17051.2,3355.2,408.2,2.4
+R1: Discount governance,Optimistic,22166.5,3355.2,560.7,1.8
+R2: Scale best region,Conservative,9400.1,6710.4,40.1,8.6
+R2: Scale best region,Expected,15666.9,6710.4,133.5,5.1
+R2: Scale best region,Optimistic,20366.9,6710.4,203.5,4.0
+R3: Top-customer retention,Conservative,6365.1,5032.8,26.5,9.5
+R3: Top-customer retention,Expected,10608.4,5032.8,110.8,5.7
+R3: Top-customer retention,Optimistic,13791.0,5032.8,174.0,4.4
